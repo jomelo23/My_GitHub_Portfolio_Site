@@ -2,7 +2,7 @@ remote_theme: hmfaysal/hmfaysal-omega-theme
 
 title:            Kanjo (Jo) Melo's Portfolio
 description:      Here you can find all the products and projects I have built recently!
-logo:             ![Image](/images/Headshot (1 of 1).jpg)
+logo:             ![Image](/images/headshot.png)
 disqus_shortname: shortname
 # Assign a default image for your site's header and footer
 default_bg:       default_bg.jpg
