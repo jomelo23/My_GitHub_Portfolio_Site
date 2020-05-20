@@ -2,10 +2,10 @@ remote_theme: hmfaysal/hmfaysal-omega-theme
 
 title:            Kanjo (Jo) Melo's Portfolio
 description:      Here you can find all the products and projects I have built recently!
-logo:             ![Image](https://github.com/jomelo23/portfolio/blob/master/images/headshot.png)
+logo:             ![Image](https://github.com/jomelo23/portfolio/blob/master/images/headshot.png?raw=true)
 disqus_shortname: shortname
 # Assign a default image for your site's header and footer
-default_bg:       default_bg.jpg
+default_bg:       ![Image](https://github.com/jomelo23/portfolio/blob/master/images/headshot.png?raw=true)
 search:           true
 share:            true
 # Read Time is a calculator to provide post read-time based on word count. Usage is recommended.
