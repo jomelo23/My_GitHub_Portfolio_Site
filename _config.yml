@@ -2,10 +2,10 @@ remote_theme: hmfaysal/hmfaysal-omega-theme
 
 title:            Kanjo (Jo) Melo's Portfolio
 description:      Here you can find all the products and projects I have built recently!
-logo:             ![Image](https://github.com/jomelo23/portfolio/blob/master/images/headshot.png?raw=true)
+logo:             https://github.com/jomelo23/portfolio/blob/master/images/headshot.png?raw=true
 disqus_shortname: shortname
 # Assign a default image for your site's header and footer
-default_bg:       ![Image](https://github.com/jomelo23/portfolio/blob/master/images/headshot.png?raw=true)
+default_bg:       https://github.com/jomelo23/portfolio/blob/master/images/headshot.png?raw=true
 search:           true
 share:            true
 # Read Time is a calculator to provide post read-time based on word count. Usage is recommended.
@@ -50,12 +50,9 @@ author:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Some Details about yourself
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
-  linkedin:
-  instagram:
-  tumblr:
+  twitter: "twitter.com/MeloKanjo"
+  github: "github.com/jomelo23"
+  linkedin: "https://www.linkedin.com/in/kanjo-melo/
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    "http://plus.google.com/123123123123132123"
 
@@ -65,15 +62,15 @@ google_verify:
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: Home
-    url: /
-    external: false
-    icon: home
-  - title: Categories
-    url: /categories
-  - title: Tags
-    url: /tags
+#links:
+#  - title: Home
+#    url: /
+#    external: false
+#    icon: home
+#  - title: Categories
+#    url: /categories
+#  - title: Tags
+#    url: /tags
 
 # Sitemap configuration
 # https://github.com/kinnetica/jekyll-plugins
