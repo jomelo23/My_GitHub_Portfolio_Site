@@ -1,6 +1,6 @@
 # Kanjo (Jo) Melo Portfolio on GitHub
 
-On this site you cna find links to some projects and products I have built
+On this site you can find links to some projects and products I have built! I am so excited to share this with those willing to connect with me.
 
 ## ABOUT
 
