@@ -1,1 +1,11 @@
 remote_theme: andrewbanchich/forty-jekyll-theme
+
+# site settings
+title: Home Page
+email: kanjo.melo@gmail.com
+phone: (613) 922-5671
+street_address: The Internet
+city: 
+state: Ontario
+country: Canada
+# zip_code: 55555
