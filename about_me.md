@@ -1,12 +1,10 @@
 ---
 layout: post
 title: About Me
-<img src="https://github.com/jomelo23/portfolio/blob/master/images/headshot.jpg?raw=true" alt="About Me" width="500" height="600">
-width: 500
-height: 600
+<img src="https://github.com/jomelo23/portfolio/blob/master/images/headshot.jpg?raw=true" alt="About Me" width="200" height="300">
 nav-menu: true
 ---
-<img src="https://github.com/jomelo23/portfolio/blob/master/images/headshot.jpg?raw=true" alt="About Me" width="500" height="600">
+<img src="https://github.com/jomelo23/portfolio/blob/master/images/headshot.jpg?raw=true" alt="About Me" width="200" height="300">
 
 
 I am a graduate of the Universiteis of Sheffield and Waterloo. Currently working as a Line Operations Manager at P&G!
