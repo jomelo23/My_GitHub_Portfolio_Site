@@ -1,7 +1,9 @@
 ---
 layout: post
 title: About Me
-image: images/headshot.jpg
+image: https://github.com/jomelo23/portfolio/blob/master/images/headshot.jpg?raw=true
+width: 500
+height: 600
 nav-menu: true
 ---
 
