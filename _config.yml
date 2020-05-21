@@ -6,6 +6,24 @@ email: kanjo.melo@gmail.com
 phone: (613) 922-5671
 street_address: The Internet
 city: 
-state: Ontario
+state: Ontario,
 country: Canada
 # zip_code: 55555
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 4
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/jomelo23
+gitlab_url: 
+linkedin_url: https://www.linkedin.com/in/kanjo-melo/
+twitter_url: https://twitter.com/MeloKanjo
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
