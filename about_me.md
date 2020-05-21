@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Machine Learning
-description: Lorem ipsum dolor est
-image: images/headshot.png
+title: About Me
+image: images/headshot.jpg
 nav-menu: true
 ---
 
