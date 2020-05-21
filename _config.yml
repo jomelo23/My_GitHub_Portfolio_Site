@@ -2,6 +2,11 @@ remote_theme: andrewbanchich/forty-jekyll-theme
 
 # site settings
 title: Home Page
+subtitle: by a Data Enthusiast
+description: A brief overview of some of the top projects and products I have built.
+baseurl: "/portfolio" # the subpath of the site
+url: # the base hostname & protocol for the site
+
 email: kanjo.melo@gmail.com
 phone: (613) 922-5671
 street_address: The Internet
