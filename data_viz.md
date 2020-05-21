@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Data Visualization
 nav-menu: true
 ---
 
