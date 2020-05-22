@@ -1,10 +1,8 @@
 ---
 layout: post
 title: About Me
-image: images/headshot.jpg
 nav-menu: true
 ---
-<img align="right" src="https://github.com/jomelo23/portfolio/blob/master/images/headshot.jpg?raw=true" alt="About Me" width="400" height="600">
 
 <!-- Main -->
 <div id="main" class="alt">
@@ -16,7 +14,9 @@ nav-menu: true
 			<h1 style="font-family:futura;"> About Me</h1>
 		</header>
 
-<body style="font-family:futura;">
+<body id ="content" style="font-family:futura;">
+	
+<img align="right" src="https://github.com/jomelo23/portfolio/blob/master/images/headshot.jpg?raw=true" alt="About Me" width="400" height="600">
 
 <blockquote cite="https://ruwix.com/"> <em>In God we trust, all others must bring data </em></blockquote>
 
@@ -25,8 +25,7 @@ nav-menu: true
     <br />
     <p>In my daily role, I work with my team, including over 5 direct reports, on process optimization to manage the business measured in our key KPI, including process reliability, material utilization and case fill rate</p>
 	<br />
-	<br />
-    <p>My goal is to enable an organization to make good business decision with the help of the data available. I enjoy working on data wrangling, pre-processing, data visualization, web scraping, computational statistics and machine learning </p>
+    <p>My goal is to enable teams and organizations to make good business decision with the help of the data available. I enjoy working on data wrangling, pre-processing, data visualization, web scraping, computational statistics and machine learning </p>
 	<br />
 	<hr />
 <div class="6u$ 12u$(small)">
